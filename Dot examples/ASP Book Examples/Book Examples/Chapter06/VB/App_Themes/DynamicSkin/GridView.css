@@ -1,0 +1,45 @@
+.Professional td
+{
+    padding:4px;
+    color:#333333;
+    background-color:#F7F6F3;
+}
+
+.Professional .Header th
+{
+    padding:4px;
+    background-color:#5D7B9D;
+    font-weight:bold;
+    color:White;
+}
+
+.Professional .Alternating td
+{
+    background-color:White;
+    color:#284775;
+}
+
+
+.Colorful td
+{
+    padding:4px;
+    color:#333333;
+    background-color:#FFFBD6;
+}
+
+.Colorful .Header th
+{
+    padding:4px;
+    background-color:#990000;
+    font-weight:bold;
+    color:White;
+}
+
+.Colorful .Alternating td
+{
+    background-color:White;
+}
+
+
+
+

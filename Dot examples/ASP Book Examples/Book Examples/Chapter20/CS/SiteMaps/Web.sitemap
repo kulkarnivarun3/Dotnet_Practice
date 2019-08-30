@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode 
+    url="Default.aspx" 
+    title="Home"  
+    description="The Home Page">
+    <siteMapNode 
+      url="Products/Default.aspx" 
+      title="Our Products"  
+      description="Products that we offer">
+      <siteMapNode 
+        url="Products/FirstProduct.aspx" 
+        title="First Product" 
+        description="The description of the First Product" />
+      <siteMapNode 
+        url="Products/SecondProduct.aspx" 
+        title="Second Product" 
+        description="The description of the Second Product" />
+    </siteMapNode>
+    <siteMapNode 
+      url="Services/Default.aspx" 
+      title="Our Services"  
+      description="Services that we offer">
+      <siteMapNode 
+        url="Services/FirstService.aspx" 
+        title="First Service" 
+        description="The description of the First Service" 
+        metaDescription="The first service" />
+      <siteMapNode 
+        url="Services/SecondService.aspx" 
+        title="Second Service" 
+        description="The description of the Second Service"
+        metaDescription="The second service" />
+    </siteMapNode>
+    <siteMapNode 
+      siteMapFile="Employees/Employees.sitemap" />
+    <siteMapNode 
+      url="Admin" 
+      title="Admin" 
+      description="Administrative Pages">
+      <siteMapNode 
+        url="Admin/DeleteWebsite.aspx" 
+        title="Delete Website" 
+        description="Deletes entire Website" />
+    </siteMapNode>
+    <siteMapNode 
+      title="External Links" 
+      description="Links to external Websites" 
+      roles="RoleA,RoleB,RoleC">
+      <siteMapNode 
+        title="Google" 
+        url="http://www.Google.com" 
+        description="The Google Website" 
+        roles="RoleA" />
+      <siteMapNode 
+        title="Microsoft" 
+        url="http://www.Microsoft.com" 
+        description="The Microsoft Website" 
+        roles="RoleB" />
+      <siteMapNode 
+        title="Yahoo" 
+        url="http://www.Yahoo.com" 
+        description="The Yahoo Website" 
+        roles="RoleC" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

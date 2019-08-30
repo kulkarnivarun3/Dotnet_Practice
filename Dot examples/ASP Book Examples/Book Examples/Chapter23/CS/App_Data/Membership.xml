@@ -1,0 +1,4 @@
+<credentials>
+  <user name="Steve" password="apple" email="steve@somewhere.com" />
+  <user name="Andrew" password="secret" email="andrew@somewhere.com" />
+</credentials>

@@ -1,0 +1,38 @@
+<%@ Master Language="VB" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <style type="text/css">
+        html
+        {
+            background-color:yellow;
+        }
+        .content
+        {
+            background-color:white;
+            width:700px;
+            padding:10px;
+        }
+        .selectMaster li
+        {
+            margin-bottom:10px;
+        }
+        .selectMaster a
+        {
+            color:blue;
+            text-decoration:none;
+        }
+    </style>
+    <title>Dynamic 1</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="content">
+        <h1>Dynamic 1</h1>
+        <asp:contentplaceholder 
+            id="ContentPlaceHolder1" 
+            runat="server" />
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\Users\amg\Desktop\relations4\relations4\bin\Debug\relations4.exe
+C:\Users\amg\Desktop\relations4\relations4\bin\Debug\relations4.pdb
+C:\Users\amg\Desktop\relations4\relations4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\relations4\relations4\obj\Debug\relations4.exe
+C:\Users\amg\Desktop\relations4\relations4\obj\Debug\relations4.pdb
+G:\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\relations4.exe
+G:\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\relations4.pdb
+G:\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\bin\Debug\relations4.exe
+G:\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\bin\Debug\relations4.pdb
+G:\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\ResolveAssemblyReference.cache
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\relations4.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\relations4.pdb
+G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\relations4.exe
+G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\relations4.pdb
+G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\bin\Debug\relations4.exe
+G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\bin\Debug\relations4.pdb
+G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4\obj\Debug\ResolveAssemblyReference.cache

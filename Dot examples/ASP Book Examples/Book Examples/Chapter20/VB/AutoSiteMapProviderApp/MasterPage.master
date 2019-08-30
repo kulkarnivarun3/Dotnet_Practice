@@ -1,0 +1,108 @@
+<%@ Master Language="vb" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <style type="text/css">
+        html
+        {
+            background-color:silver;
+            font:14px Georgia,Serif;
+        }
+        
+        a
+        {
+            color:blue;
+        }
+        
+        #banner
+        {
+            border-bottom:solid 1px black;
+            padding:10px;
+            background-color:#eeeeee;
+            height:20px;
+        }
+        
+        #content
+        {
+            border:solid 1px black;
+            border-top:none;
+            background-color:white;
+        }
+        
+        #leftColumn
+        {
+            float:left;
+            width:200px;
+            padding:10px;
+        }
+
+        #rightColumn
+        {
+            border-left:solid 1px black;
+            float:left;
+            padding:10px;
+            height:400px;
+
+        }
+        
+        #footer
+        {
+            border-top:solid 1px black;
+            padding:4px;
+            text-align:center;
+            font-size:small;
+        }
+        
+        .clear
+        {
+            clear:left;
+        }
+    </style>
+    <title>AutoSiteMapProvider Application</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <div id="content">    
+    
+        <div id="banner">
+        
+            <asp:SiteMapPath
+                id="SiteMapPath1"
+                Runat="server" />
+        
+        </div>
+    
+        <div id="leftColumn">
+        
+            <asp:TreeView
+                id="TreeView1"
+                DataSourceID="srcSiteMap"
+                Runat="server" />
+            
+            <asp:SiteMapDataSource
+                id="srcSiteMap"
+                Runat="server" />
+    
+                
+        </div>
+    
+        <div id="rightColumn">    
+                    
+            <asp:contentplaceholder 
+                id="ContentPlaceHolder1" 
+                runat="server" />
+    
+        
+        </div>
+    
+        <br class="clear" />
+        
+        <div id="footer">
+            Copyright &copy 2006 by the Company
+        </div>
+    </div>
+    
+    </form>
+</body>
+</html>

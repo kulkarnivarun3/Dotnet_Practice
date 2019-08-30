@@ -1,0 +1,5 @@
+<Movies>
+  <add name="Title" />
+  <add name="Director" />
+  <add name="BoxOfficeTotals" type="Decimal" />
+</Movies>

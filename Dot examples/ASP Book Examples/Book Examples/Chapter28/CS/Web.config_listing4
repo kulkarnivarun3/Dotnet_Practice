@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <add key="welcome" value="Welcome to our Web site!" />
+    <add key="copyright" value="Copyright (c) 2007 by the company" />
+  </appSettings>
+</configuration>

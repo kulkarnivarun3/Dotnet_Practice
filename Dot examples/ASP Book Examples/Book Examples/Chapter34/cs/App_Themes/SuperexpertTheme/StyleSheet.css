@@ -1,0 +1,480 @@
+﻿/* Element name selectors */
+html
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #555;
+}
+
+body
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background: #becad6 url(Images/body_bg.gif) repeat-x;
+    margin: 0;
+    padding: 0;
+}
+
+a, a:link, a:active, a:visited
+{
+	color: #557EA9;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+h1
+{
+    font: normal 1.5em Georgia, serif;
+    color: #000;
+    margin: 0 0 10px 0;
+}
+
+h2
+{
+    font-size: 1.2em;
+    color: #333;
+}
+
+h3
+{
+    margin: 2px 0;   
+    font-weight: normal;
+    font-size: .9em;
+}
+
+p
+{
+    font-size: .8em;    
+}
+
+/* Class attribute selectors */
+.divBlogComment
+{
+    border: solid 1px #ccc;
+    padding: 10px 10px 6px 10px;
+    margin: 10px;
+}
+
+.divBlogComment p
+{
+    margin: 0;
+    font-size: .8em;    
+}
+    
+.divBlogCommentByBlogAuthor
+{
+    background-color: #eef0f2;
+}
+
+.blogTags, .entryTags
+{
+}
+
+.commentsTitle
+{
+    margin: 10px;   
+}
+    
+.errorMessage
+{
+    display: block;
+    color: #CC0000;
+    border: solid 1px #CC0000;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #FFFF99;
+}
+
+.validationSummary
+{
+    border: solid 1px black;
+    background-color: Yellow;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+.codeCloud
+{
+    letter-spacing: 1px;
+}
+
+.codeCloud a
+{
+    text-decoration: none;
+}
+
+.column
+{
+    float: left;
+    width: 365px;
+    padding-right: 10px;
+}
+
+.entryRow
+{
+    margin: 10px 0px;
+}
+
+.entryRow p, .blogRow p, .listingRow p
+{
+    margin: 0;
+    font-size: .8em;
+}
+
+.listingRow
+{
+    margin-top: 10px;
+}
+
+.codeContainer
+{
+    border: solid 1px #777;
+    width: 740px;
+    background-color: #eef0f2;
+}
+
+.codeLinks
+{
+    float: right;
+}
+
+.codeLinks a
+{
+    padding:3px;
+    font-weight: bold;
+    text-decoration:none;
+    margin-left:5px;
+}
+
+.codeTitleBar
+{
+    padding: 5px;
+    font-size: .8em;
+    font-weight: bold;
+    border-bottom: solid 1px #777;
+    height: 24px;
+}
+
+.code
+{
+    clear: both;
+    padding: 5px;
+    white-space: pre;
+    height: 300px;
+    overflow: scroll;
+    background-color: White;
+    font-family: Monospace;
+    font-size: 80%;
+}
+
+.tocList
+{
+    margin-left: 25px;
+}
+
+.metaInfo
+{
+    font-size: .7em;
+    color: #777;
+    padding: 2px 0 10px 0;
+}
+
+.metaInfo a:link, .metaInfo a:active, .metaInfo a:visited
+{
+    color: #777;
+}
+
+.dataPager
+{
+    font-size: .8em;
+}
+
+.viewed
+{
+    font-size: .8em;
+    margin-bottom: 10px;
+}
+
+/* MasterPage.master */
+#loginStatus
+{
+    margin: 0 auto;
+    padding: 4px 30px 4px 0;
+    width: 770px;
+    text-align: right;
+}
+
+#loginStatus a:link, #loginStatus a:active, #loginStatus a:visited
+{
+    color: #fff;
+    font-size: .9em;
+}
+
+.roundedCorner 
+{
+	margin: 0 auto;
+	width: 800px;
+	background: #fff;
+	padding: 0;
+}
+
+.roundedCornerTop div 
+{
+	background: url(Images/top_left.gif) no-repeat top left;
+}
+
+.roundedCornerTop 
+{
+	background: url(Images/top_right.gif) no-repeat top right;
+}
+
+.roundedCornerBottom div 
+{
+	background: url(Images/bottom_left.gif) no-repeat bottom left;
+}
+
+.roundedCornerBottom 
+{
+	background: url(Images/bottom_right.gif) no-repeat bottom right;
+}
+
+.roundedCornerTop div, .roundedCornerTop, .roundedCornerBottom div, .roundedCornerBottom 
+{
+	width: 100%;
+	height: 5px;
+	font-size: 1px;
+}
+
+.wrapper 
+{
+	margin: 0;
+	padding: 0; 
+}
+
+#header
+{
+    height: 125px;
+    background: #ffffff url(Images/header.gif) 20px 15px no-repeat;
+    color: #ffffff;
+    font-size: 1.2em;
+}
+
+#header span
+{
+    padding: 40px 0 0 45px;
+    display: block;
+}
+
+table.menu
+{
+    margin-left: 20px;    
+}
+
+.menu td
+{
+    padding: 0px 5px;
+}
+
+.menu td a:link, .menu td a:active, .menu td a:visited
+{
+    color: #72665a;
+    text-decoration: none;
+    font-size: .9em;
+}
+
+.menu td a:hover
+{
+    text-decoration: underline;
+}
+
+#content
+{
+    padding: 25px;
+}
+
+.clearBoth
+{
+    clear: both;    
+}
+
+#footer
+{
+    font-size: .8em;
+    text-align: center;
+}
+
+/* Password Strength */
+.TextIndicator_TextBox1
+{
+    background-color: black;
+    color: White;
+    font-family: Arial;
+    font-size: x-small;
+    font-style: italic;
+    padding: 2px 3px 2px 3px;
+}
+
+.BarIndicator_TextBox2
+{
+    color: Blue;
+    background-color: Blue;
+}
+
+.BarBorder_TextBox2
+{
+    border-style: solid;
+    border-width: 1px;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.TextIndicator_TextBox3
+{
+    background-color: Blue;
+    color: Yellow;
+    font-size: small;
+    font-variant: small-caps;
+    padding: 2px 3px 2px 3px;
+}
+
+.TextIndicator_TextBox3_Handle
+{
+    width: 16px;
+    height: 14px;
+    background-image: url(images/Question.png);
+    overflow: hidden;
+    cursor: help;
+}
+
+.TextIndicator_TextBox1_Strength1
+{
+    background-color: yellow;
+    color:Black;
+    font-family: Arial;
+    font-size: small;
+    padding: 3px;
+}
+
+.TextIndicator_TextBox1_Strength2
+{
+    background-color: #EEE8AA;
+    font-family: Arial;
+    font-size: small;
+    padding: 3px;
+}
+
+.TextIndicator_TextBox1_Strength3
+{
+    background-color: #FFD700;
+    font-family: Arial;
+    font-size: small;
+    padding: 3px;
+}
+
+.TextIndicator_TextBox1_Strength4
+{
+    background-color: #98FB98;
+    font-family: Arial;
+    font-size: small;
+    padding: 3px;
+}
+
+.TextIndicator_TextBox1_Strength5
+{
+    background-color: #98FB98;
+    font-family: Arial;
+    font-size: small;
+    padding: 3px;
+}
+
+/* Rating */
+.rating
+{
+    font-size: .9em;
+    margin-bottom: 10px;
+}
+
+.ratingStar
+{
+    font-size: 0pt;
+    width: 13px;
+    height: 12px;
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+    display: block;
+    background-repeat: no-repeat;
+}
+
+.filledRatingStar
+{
+    background-image: url(Images/FilledStar.png);
+}
+
+.emptyRatingStar
+{
+    background-image: url(Images/EmptyStar.png);
+}
+
+.savedRatingStar
+{
+    background-image: url(Images/SavedStar.png);
+}
+
+/* Form Layout */
+.field
+{
+    position: relative;
+    clear: both;
+}
+
+.fieldLabel
+{
+    width: 170px;
+    padding: 2px 5px;
+    font-size: .9em;
+}
+
+.fieldValue
+{
+    float: left;
+    padding: 5px;
+}
+
+/* GridView */
+.gridView
+{
+    color: #333;
+    font-size: .9em;
+}
+
+.gridViewRowStyle
+{
+    background-color: #eef0f2;   
+}
+
+.gridViewRowStyle td, .gridViewAlternatingRowStyle td
+{
+    padding: 5px;
+}
+
+.gridViewSelectedRowStyle
+{
+    background-color: #C5BBAF;
+    font-weight: bold;
+    color: #333;
+}
+
+.gridViewEditRowStyle
+{
+     background-color: #7C6F57;
+}
+
+.gridViewAlternatingRowStyle
+{
+    background-color: #fff;    
+}

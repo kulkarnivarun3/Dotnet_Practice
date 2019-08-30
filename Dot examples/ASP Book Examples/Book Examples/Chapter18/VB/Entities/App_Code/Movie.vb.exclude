@@ -1,0 +1,70 @@
+﻿Imports Microsoft.VisualBasic
+Imports System.Data.Linq.Mapping
+
+<Table()> _
+Public Class Movie
+
+
+Private _Id As Integer
+
+<Column()> _
+Public Property Id() As Integer
+    Get
+        Return _Id
+    End Get
+    Set(ByVal value As Integer)
+        _Id = value
+    End Set
+End Property
+
+Private _Title As String
+
+<Column()> _
+Public Property Title() As String
+    Get
+        Return _Title
+    End Get
+    Set(ByVal value As String)
+        _Title = value
+    End Set
+End Property
+
+Private _Director As String
+
+<Column()> _
+Public Property Director() As String
+    Get
+        Return _Director
+    End Get
+    Set(ByVal value As String)
+        _Director = value
+    End Set
+End Property
+
+Private _DateReleased As DateTime
+
+<Column()> _
+Public Property DateReleased() As DateTime
+    Get
+        Return _DateReleased
+    End Get
+    Set(ByVal value As DateTime)
+        _DateReleased = value
+    End Set
+End Property
+
+
+
+Private _BoxOfficeTotals As Decimal
+
+<Column()> _
+Public Property BoxOfficeTotals() As Decimal
+    Get
+        Return _BoxOfficeTotals
+    End Get
+    Set(ByVal value As Decimal)
+        _BoxOfficeTotals = value
+    End Set
+End Property
+
+End Class

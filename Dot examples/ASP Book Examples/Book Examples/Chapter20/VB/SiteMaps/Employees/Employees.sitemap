@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode 
+    url="Employees/Default.aspx" 
+    title="Employees"  
+    description="Contains descriptions of employees">
+    <siteMapNode 
+      url="Employees/BillGates.aspx" 
+      title="Bill Gates"  
+      description="Bill Gates Page" />
+    <siteMapNode 
+      url="Employees/SteveJobs.aspx" 
+      title="Steve Jobs"  
+      description="Steve Jobs Page" />
+  </siteMapNode>
+</siteMap>

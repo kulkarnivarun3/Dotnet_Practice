@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+
+  <siteMapNode
+    url="~/Default.aspx" 
+    title="Home" 
+    description="The home page of the Website">
+
+    <!-- SiteMapPath Nodes -->
+    <siteMapNode 
+      title="Using the SiteMapPath Control"  
+      description="Sample code for the SiteMapPath Control">
+      <siteMapNode 
+        url="~/UsingSiteMapPath/DisplaySiteMapPath.aspx" 
+        title="Displaying a SiteMapPath"  
+        description="Sample code for displaying a SiteMapPath" />
+      <siteMapNode 
+        url="~/UsingSiteMapPath/SiteMapPathStyle.aspx" 
+        title="Using SiteMapPath Styles"  
+        description="Sample code for using styles with SiteMapPath" />
+      <siteMapNode 
+        url="~/UsingSiteMapPath/SiteMapPathTemplates.aspx" 
+        title="Using SiteMapPath Templates"  
+        description="Sample code for using templates with SiteMapPath" />
+    </siteMapNode>
+
+    <!-- Menu Nodes -->
+    <siteMapNode 
+      title="Using the Menu Control"  
+      description="Sample code for the Menu control">
+      <siteMapNode 
+        url="~/UsingMenu/MenuSiteMap.aspx" 
+        title="Displaying a Menu"  
+        description="Sample code for displaying a Menu" />
+    </siteMapNode>
+
+    <!-- TreeView Nodes -->
+    <siteMapNode 
+      title="Using the TreeView Control"  
+      description="Sample code for the TreeView control">
+      <siteMapNode 
+        url="~/UsingTreeView/TreeViewSiteMap.aspx" 
+        title="Displaying a TreeView"  
+        description="Sample code for displaying a TreeView" />
+    </siteMapNode>
+
+  </siteMapNode>
+
+</siteMap>

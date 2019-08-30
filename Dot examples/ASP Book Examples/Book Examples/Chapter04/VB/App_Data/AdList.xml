@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <!-- Banner Advertisements -->
+  <Ad>
+    <ImageUrl>~/Ads/BannerAd1.gif</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.AspWorkshops.com</NavigateUrl>
+    <AlternateText>Banner Advertisement 1</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Ads/BannerAd2.gif</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.AspWorkshops.com</NavigateUrl>
+    <AlternateText>Banner Advertisement 2</AlternateText>
+    <Impressions>25</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Ads/BannerAd3.gif</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.AspWorkshops.com</NavigateUrl>
+    <AlternateText>Banner Advertisement 3</AlternateText>
+    <Impressions>25</Impressions>
+    <Keyword>banner</Keyword>
+  </Ad>
+  <!-- Box Advertisements -->
+  <Ad>
+    <ImageUrl>~/Ads/BoxAd1.gif</ImageUrl>
+    <Width>150</Width>
+    <Height>150</Height>
+    <NavigateUrl>http://www.AspWorkshops.com</NavigateUrl>
+    <AlternateText>Box Advertisement 1</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>box</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Ads/BoxAd2.gif</ImageUrl>
+    <Width>150</Width>
+    <Height>150</Height>
+    <NavigateUrl>http://www.AspWorkshops.com</NavigateUrl>
+    <AlternateText>Box Advertisement 2</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>box</Keyword>
+  </Ad>
+</Advertisements>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<configuration>
+    <system.web>
+      <authentication mode="Forms" />
+
+      <membership defaultProvider="MyProvider">
+        <providers>
+          <add
+            name="MyProvider"
+            type="System.Web.Security.SqlMembershipProvider"
+            passwordFormat="Clear"
+            connectionStringName="LocalSqlServer"/>
+        </providers>
+        
+        
+      </membership>
+    </system.web>
+</configuration>

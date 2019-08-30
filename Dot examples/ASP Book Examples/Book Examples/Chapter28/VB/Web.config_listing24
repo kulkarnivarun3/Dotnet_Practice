@@ -1,0 +1,19 @@
+<configuration>
+  <configSections>
+    <sectionGroup name="system.web">
+      <section 
+        name="adminUsers"
+        type="AspNetUnleashed.AdminUsersSection"
+        allowLocation="true"
+        allowDefinition="Everywhere" />
+    </sectionGroup>
+  </configSections>
+  <system.web>
+
+    <adminUsers>
+      <user name="Bob" password="secret" />
+      <user name="Fred" password="secret" />
+    </adminUsers>
+
+  </system.web>
+</configuration>

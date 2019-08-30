@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration xmlns="http://schemas.microsoft.com/.NetConfiguration/v2.0">
+  <system.web>
+    <roleManager enabled="true" />
+    <authentication mode="Forms" />
+  </system.web>
+</configuration>

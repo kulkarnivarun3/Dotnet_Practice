@@ -1,0 +1,63 @@
+<%@ Page Language="VB" %>
+<%@ Import Namespace="System.Data" %>
+<%@ Import Namespace="System.Data.SqlClient" %>
+<%@ Import Namespace="System.Web.Configuration" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<script runat="server">
+ 
+    Dim dvMovies As DataView
+ 
+    ''' <summary>
+    ''' Load the Movies
+    ''' </summary>
+    Private Sub Page_Load()
+        dvMovies = CType(Session("Movies"), DataView)
+        If IsNothing(dvMovies) Then
+            Dim conString As String = WebConfigurationManager.ConnectionStrings("Movies").ConnectionString
+            Dim dad As New SqlDataAdapter("SELECT Id,Title,Director FROM Movies", conString)
+            Dim dtblMovies As New DataTable()
+            dad.Fill(dtblMovies)
+            dvMovies = New DataView(dtblMovies)
+            Session("Movies") = dvMovies
+        End If
+    End Sub
+ 
+    ''' <summary>
+    ''' Sort the Movies
+    ''' </summary>
+    Protected Sub grdMovies_Sorting(ByVal sender As Object, ByVal e As GridViewSortEventArgs)
+        dvMovies.Sort = e.SortExpression
+    End Sub
+ 
+    ''' <summary>
+    ''' Render the Movies
+    ''' </summary>
+    Private Sub Page_PreRender()
+        grdMovies.DataSource = dvMovies
+        grdMovies.DataBind()
+    End Sub
+</script>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>Session DataView</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+    <asp:GridView
+        id="grdMovies"
+        AllowSorting="true"
+        EnableViewState="false"
+        OnSorting="grdMovies_Sorting" 
+        Runat="server" />
+    <br />
+    <asp:LinkButton
+        id="lnkReload"
+        Text="Reload Page"
+        Runat="server" />
+    
+    </div>
+    </form>
+</body>
+</html>

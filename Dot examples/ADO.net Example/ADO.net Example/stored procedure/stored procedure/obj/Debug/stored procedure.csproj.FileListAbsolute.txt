@@ -1,0 +1,15 @@
+C:\Users\amg\Desktop\stored procedure\stored procedure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\stored procedure\stored procedure\bin\Debug\stored procedure.exe
+C:\Users\amg\Desktop\stored procedure\stored procedure\bin\Debug\stored procedure.pdb
+C:\Users\amg\Desktop\stored procedure\stored procedure\obj\Debug\stored procedure.exe
+C:\Users\amg\Desktop\stored procedure\stored procedure\obj\Debug\stored procedure.pdb
+G:\stored procedure\stored procedure\obj\Debug\stored procedure.exe
+G:\stored procedure\stored procedure\obj\Debug\stored procedure.pdb
+G:\stored procedure\stored procedure\bin\Debug\stored procedure.exe
+G:\stored procedure\stored procedure\bin\Debug\stored procedure.pdb
+G:\stored procedure\stored procedure\obj\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\stored procedure\stored procedure\obj\Debug\stored procedure.exe
+G:\ADO.net Example\stored procedure\stored procedure\obj\Debug\stored procedure.pdb
+G:\ADO.net Example\stored procedure\stored procedure\bin\Debug\stored procedure.exe
+G:\ADO.net Example\stored procedure\stored procedure\bin\Debug\stored procedure.pdb
+G:\ADO.net Example\stored procedure\stored procedure\obj\Debug\ResolveAssemblyReference.cache

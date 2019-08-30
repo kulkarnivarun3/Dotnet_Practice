@@ -1,0 +1,12 @@
+C:\Users\amg\Desktop\all op in dataset\all op in dataset\bin\Debug\all op in dataset.exe
+C:\Users\amg\Desktop\all op in dataset\all op in dataset\bin\Debug\all op in dataset.pdb
+C:\Users\amg\Desktop\all op in dataset\all op in dataset\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\all op in dataset\all op in dataset\obj\Debug\all op in dataset.exe
+C:\Users\amg\Desktop\all op in dataset\all op in dataset\obj\Debug\all op in dataset.pdb
+C:\Users\amg\Desktop\ADO.net Example\all op in dataset\all op in dataset\obj\Debug\all op in dataset.exe
+C:\Users\amg\Desktop\ADO.net Example\all op in dataset\all op in dataset\obj\Debug\all op in dataset.pdb
+C:\Users\amg\Desktop\ADO.net Example\all op in dataset\all op in dataset\bin\Debug\all op in dataset.exe
+C:\Users\amg\Desktop\ADO.net Example\all op in dataset\all op in dataset\bin\Debug\all op in dataset.pdb
+C:\Users\amg\Desktop\ADO.net Example\all op in dataset\all op in dataset\obj\Debug\ResolveAssemblyReference.cache
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\all op in dataset\all op in dataset\obj\Debug\all op in dataset.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\all op in dataset\all op in dataset\obj\Debug\all op in dataset.pdb

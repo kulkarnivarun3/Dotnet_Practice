@@ -1,0 +1,22 @@
+C:\Users\amg\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\amg\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\amg\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\amg\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\First ado example\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\First ado example\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\First ado example\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\google drive\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\google drive\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\ADO.net Example\First ado example\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\ADO.net Example\First ado example\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\ADO.net Example\First ado example\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

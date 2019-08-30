@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<configuration>
+
+  <connectionStrings>
+    <add 
+      name="ADAMConnection" 
+      connectionString="LDAP://localhost:389/OU=WebUsers,O=WebUsersDirectory"/>
+  </connectionStrings>
+
+  <system.web>
+    <authentication mode="Forms" />
+
+    <membership defaultProvider="MyMembershipProvider">
+      <providers>
+        <add
+          name="MyMembershipProvider"
+          type="System.Web.Security.ActiveDirectoryMembershipProvider"
+          connectionStringName="ADAMConnection"
+          connectionProtection="None"
+          connectionUsername="CN=ADAMAdministrator,OU=WebUsers,O=WebUsersDirectory"
+          connectionPassword="secret_"
+          enableSearchMethods="true" />
+
+      </providers>
+    </membership>
+  </system.web>
+</configuration>

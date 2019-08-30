@@ -1,0 +1,16 @@
+C:\Users\amg\Desktop\updata datatable\updata datatable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\updata datatable\updata datatable\bin\Debug\updata datatable.exe
+C:\Users\amg\Desktop\updata datatable\updata datatable\bin\Debug\updata datatable.pdb
+C:\Users\amg\Desktop\updata datatable\updata datatable\obj\Debug\updata datatable.exe
+C:\Users\amg\Desktop\updata datatable\updata datatable\obj\Debug\updata datatable.pdb
+C:\Users\amg\Desktop\updatedatatable\updata datatable\obj\Debug\updata datatable.exe
+C:\Users\amg\Desktop\updatedatatable\updata datatable\obj\Debug\updata datatable.pdb
+C:\Users\amg\Desktop\updatedatatable\updata datatable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\updatedatatable\updata datatable\bin\Debug\updata datatable.exe
+C:\Users\amg\Desktop\updatedatatable\updata datatable\bin\Debug\updata datatable.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\updatedatatable\updata datatable\obj\Debug\updata datatable.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\updatedatatable\updata datatable\obj\Debug\updata datatable.pdb
+C:\Users\amg\Desktop\ADO.net Example\updatedatatable\updata datatable\obj\Debug\updata datatable.exe
+C:\Users\amg\Desktop\ADO.net Example\updatedatatable\updata datatable\obj\Debug\updata datatable.pdb
+G:\ADO.net Example\updatedatatable\updata datatable\obj\Debug\updata datatable.exe
+G:\ADO.net Example\updatedatatable\updata datatable\obj\Debug\updata datatable.pdb

@@ -1,0 +1,49 @@
+<%@ Master Language="VB" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <style type="text/css">
+        html
+        {
+            background-color:silver;
+        }
+        .content
+        {
+            margin:auto;
+            width:650px;
+            border:solid 1px black;
+            background-color:white;
+            padding:10px;
+        }
+        .login
+        {
+            font:10px Arial,Sans-Serif;
+            margin-left:auto;
+        }
+        .login input
+        {
+            font:10px Arial,Sans-Serif;
+        }
+    </style>
+    <title>My Website</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="content">
+    <asp:Login
+        id="Login1"
+        Orientation="Horizontal"
+        VisibleWhenLoggedIn="false"
+        DisplayRememberMe="false"
+        TitleText=""
+        CssClass="login"
+        Runat="server" />
+        <hr />
+        <asp:contentplaceholder 
+            id="ContentPlaceHolder1" 
+            runat="server">
+        </asp:contentplaceholder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+    <authentication mode="Forms" />
+
+    <membership defaultProvider="MyProvider">
+      <providers>
+        <add
+          name="MyProvider"
+          type="System.Web.Security.SqlMembershipProvider"
+          passwordFormat="Encrypted"
+          connectionStringName="LocalSqlServer"/>
+      </providers>
+    </membership>
+
+    <machineKey 
+        decryption="AES"
+        decryptionKey="306C1FA852AB3B0115150DD8BA30821CDFD125538A0C606DACA53DBB3C3E0AD2" />
+
+  </system.web>
+</configuration>

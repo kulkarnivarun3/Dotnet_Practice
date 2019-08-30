@@ -1,0 +1,35 @@
+<%@ Master Language="C#" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <style type="text/css">
+        html
+        {
+            background-color:silver;
+        }
+        .content
+        {
+            margin:auto;
+            width:700px;
+            background-color:white;
+            padding:10px;
+        }
+        h1
+        {
+            border-bottom:solid 1px blue;
+        }
+        
+    </style>
+    <title>Find Master</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="content">
+    <h1><asp:Literal ID="ltlBodyTitle" runat="server" /></h1>
+    <asp:contentplaceholder 
+        id="ContentPlaceHolder1" 
+        runat="server" />
+    </div>
+    </form>
+</body>
+</html>

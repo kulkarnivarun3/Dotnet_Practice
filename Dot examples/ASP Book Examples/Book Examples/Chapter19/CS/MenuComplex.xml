@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <category text="appetizer">
+    <item text="soup" price="12.56" />
+    <item text="cheese" price="17.23" />
+  </category>
+  <category text="entree">
+    <item text="duck" price="89.21" />
+    <item text="chicken" price="34.56" />
+  </category>
+  <category text="dessert">
+    <item text="cake" price="23.43" />
+    <item text="pie" price="115.46" />
+  </category>
+</menu>

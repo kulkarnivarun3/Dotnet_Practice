@@ -1,0 +1,27 @@
+<configuration>
+  <configSections>
+    <sectionGroup name="system.web">
+      <section 
+        name="shoppingCart"
+        type="AspNetUnleashed.ShoppingCartSection"
+        allowLocation="true"
+        allowDefinition="Everywhere" />
+    </sectionGroup>
+  </configSections>
+  <system.web>
+
+    <shoppingCart 
+      maximumItems="50"
+      defaultProvider="SqlShoppingCartProvider">
+      <providers>
+        <add 
+          name="SqlShoppingCartProvider" 
+          type="AspNetUnleashed.SqlShoppingCartProvider" />
+        <add 
+          name="XmlShoppingCartProvider" 
+          type="AspNetUnleashed.XmlShoppingCartProvider" />
+      </providers>
+    </shoppingCart>
+
+  </system.web>
+</configuration>

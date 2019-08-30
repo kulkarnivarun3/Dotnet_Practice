@@ -1,0 +1,14 @@
+Imports System
+Imports System.Web
+Imports System.Web.Profile
+
+''' <summary>
+''' Retrieves first name from Profile
+''' </summary>
+Public Class ProfileComponent
+    Public Shared Function GetFirstNameFromProfile() As String
+        Dim profile As ProfileCommon = CType(HttpContext.Current.Profile, ProfileCommon)
+        Return profile.firstName
+    End Function
+End Class
+

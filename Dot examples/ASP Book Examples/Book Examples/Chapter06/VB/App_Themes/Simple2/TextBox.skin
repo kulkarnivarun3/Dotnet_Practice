@@ -1,0 +1,11 @@
+<asp:TextBox
+    SkinID="DashedTextBox"
+    BorderStyle="Dashed"
+    BorderWidth="5px"
+    Runat="Server" />
+
+<asp:TextBox
+    BorderStyle="Double"
+    BorderWidth="5px"
+    Runat="Server" />    
+    

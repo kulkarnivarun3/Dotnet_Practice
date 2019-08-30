@@ -1,0 +1,27 @@
+html
+{
+    background-color:#00FF00;
+    font:14px Comic Sans MS;
+}
+
+a
+{
+    text-decoration:none;
+}
+
+h1
+{
+    color:#16700a;
+}
+
+.content
+{
+    background-color:White;
+    padding:10px;
+    border:solid 1px black;
+}
+
+li
+{
+    margin-bottom:10px;
+}

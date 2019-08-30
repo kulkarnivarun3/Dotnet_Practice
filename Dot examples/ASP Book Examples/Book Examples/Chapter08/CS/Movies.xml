@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+  <Adventure>
+    <StarWars />
+    <JurassicPark />
+    <IndependenceDay />
+  </Adventure>
+  <Animation>
+    <IceAge />
+    <Shrek />
+  </Animation>
+  <Drama>
+    <Titanic />
+    <Ghost />
+    <ForrestGump />
+  </Drama>
+  <Horrer>
+    <Jaws />
+    <TheRing />
+  </Horrer>
+</movies>

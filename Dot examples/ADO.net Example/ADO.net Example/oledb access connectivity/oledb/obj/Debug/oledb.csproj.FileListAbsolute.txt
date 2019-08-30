@@ -1,0 +1,33 @@
+C:\Users\amg\Desktop\oledb\oledb\bin\Debug\oledb.exe.config
+C:\Users\amg\Desktop\oledb\oledb\bin\Debug\oledb.exe
+C:\Users\amg\Desktop\oledb\oledb\bin\Debug\oledb.pdb
+C:\Users\amg\Desktop\oledb\oledb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\oledb\oledb\obj\Debug\oledb.exe
+C:\Users\amg\Desktop\oledb\oledb\obj\Debug\oledb.pdb
+C:\Users\amg\Desktop\oledb access connectivity\oledb\bin\Debug\oledb.exe.config
+C:\Users\amg\Desktop\oledb access connectivity\oledb\obj\Debug\oledb.exe
+C:\Users\amg\Desktop\oledb access connectivity\oledb\obj\Debug\oledb.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.exe.config
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\oledb access connectivity\oledb\obj\Debug\oledb.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\oledb access connectivity\oledb\obj\Debug\oledb.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\oledb access connectivity\oledb\obj\Debug\ResolveAssemblyReference.cache
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.pdb
+G:\oledb access connectivity\oledb\bin\Debug\oledb.exe.config
+G:\oledb access connectivity\oledb\obj\Debug\oledb.exe
+G:\oledb access connectivity\oledb\obj\Debug\oledb.pdb
+G:\oledb access connectivity\oledb\bin\Debug\oledb.exe
+G:\oledb access connectivity\oledb\bin\Debug\oledb.pdb
+G:\oledb access connectivity\oledb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.exe.config
+C:\Users\amg\Desktop\ADO.net Example\oledb access connectivity\oledb\obj\Debug\oledb.exe
+C:\Users\amg\Desktop\ADO.net Example\oledb access connectivity\oledb\obj\Debug\oledb.pdb
+C:\Users\amg\Desktop\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.exe
+C:\Users\amg\Desktop\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.pdb
+C:\Users\amg\Desktop\ADO.net Example\oledb access connectivity\oledb\obj\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.exe.config
+G:\ADO.net Example\oledb access connectivity\oledb\obj\Debug\oledb.exe
+G:\ADO.net Example\oledb access connectivity\oledb\obj\Debug\oledb.pdb
+G:\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.exe
+G:\ADO.net Example\oledb access connectivity\oledb\bin\Debug\oledb.pdb
+G:\ADO.net Example\oledb access connectivity\oledb\obj\Debug\ResolveAssemblyReference.cache

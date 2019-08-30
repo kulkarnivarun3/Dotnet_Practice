@@ -1,0 +1,9 @@
+Thank you for registering!
+
+Here is your new username and password:
+
+  username: <% UserName %>
+  password: <% Password %>
+  
+  
+  

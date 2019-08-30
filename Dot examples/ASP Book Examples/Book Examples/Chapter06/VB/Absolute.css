@@ -1,0 +1,35 @@
+html
+{
+    background-color:Silver;
+    font:14px Arial,Sans-Serif;
+}
+
+#div3
+{
+    position:absolute;
+    left:15px;
+    top:15px;
+    width:200px;
+    padding:10px;
+    background-color:White;
+}
+
+#div2
+{
+    position:absolute;
+    left:250px;
+    top:65px;
+    width:200px;
+    padding:10px;
+    background-color:White;
+}
+
+#div1
+{
+    position:absolute;
+    left:485px;
+    top:115px;
+    width:200px;
+    padding:10px;
+    background-color:White;
+}

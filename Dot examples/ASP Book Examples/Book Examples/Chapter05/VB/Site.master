@@ -1,0 +1,79 @@
+<%@ Master Language="VB" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <style type="text/css">
+        html
+        {
+            background-color:DarkGreen;
+            font:14px Georgia,Serif;
+        }
+        .content
+        {
+            width:700px;
+            margin:auto;
+            border-style:solid;
+            background-color:white;
+            padding:10px;
+        }
+        .tabstrip
+        {
+            padding:3px;
+            border-top:solid 1px black;
+            border-bottom:solid 1px black;
+        }
+        .tabstrip a
+        {
+            font:14px Arial;
+            color:DarkGreen;
+            text-decoration:none;
+        }
+        .column
+        {
+            float:left;
+            padding:10px;
+            border-right:solid 1px black;
+        }
+        .rightColumn
+        {
+            float:left;
+            padding:10px;
+        }
+        .clear
+        {
+            clear:both;
+        }
+    </style>
+    <title>Site Master</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <div class="content">
+        <asp:Image
+            id="imgLogo"
+            ImageUrl="~/Images/SiteLogo.gif"
+            AlternateText="Website Logo"
+            Runat="server" />
+            
+        <div class="tabstrip">
+        <asp:HyperLink
+            id="lnkProducts"
+            Text="Products"
+            NavigateUrl="~/Products.aspx"
+            Runat="server" />
+        &nbsp;
+        <asp:HyperLink
+            id="lnkServices"
+            Text="Services"
+            NavigateUrl="~/Services.aspx"
+            Runat="server" />
+        </div>    
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        <br class="clear" />
+        copyright &copy; 2007 by the Company
+    </div>
+    </form>
+</body>
+</html>

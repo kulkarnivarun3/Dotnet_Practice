@@ -1,0 +1,60 @@
+<%@ Master Language="C#" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <style type="text/css">
+        html
+        {
+            background-color:silver;
+            font:14px Arial,Sans-Serif;
+        }
+        .content
+        {
+            margin:auto;
+            width:700px;
+            background-color:white;
+            border:Solid 1px black;
+        }
+        .leftColumn
+        {
+            float:left;
+            padding:5px;
+            width:200px;
+            border-right:Solid 1px black;
+            height:700px;
+
+        }
+        .rightColumn
+        {
+            float:left;
+            padding:5px;
+        }
+        .clear
+        {
+            clear:both;
+        }
+    </style>
+    <title>Simple Master</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="content">
+        <div class="leftColumn">
+        
+            <asp:contentplaceholder 
+                id="ContentPlaceHolder1" 
+                runat="server"/>
+        
+        </div>
+        <div class="rightColumn">
+        
+            <asp:contentplaceholder 
+                id="ContentPlaceHolder2" 
+                runat="server"/>
+        
+        </div>
+        <br class="clear" />
+    </div>
+    </form>
+</body>
+</html>

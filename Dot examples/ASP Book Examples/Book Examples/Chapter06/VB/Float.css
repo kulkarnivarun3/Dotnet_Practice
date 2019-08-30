@@ -1,0 +1,32 @@
+html
+{
+    background-color:Silver;
+    font:14px Arial,Sans-Serif;
+}
+
+#div1
+{
+    float:left;
+    width:25%;
+    margin:15px;
+    padding:10px;
+    background-color:White;
+}
+
+#div2
+{
+    float:left;
+    width:25%;
+    margin:15px;
+    padding:10px;
+    background-color:White;
+}
+
+#div3
+{
+    float:left;
+    width:25%;
+    margin:15px;
+    padding:10px;
+    background-color:White;
+}

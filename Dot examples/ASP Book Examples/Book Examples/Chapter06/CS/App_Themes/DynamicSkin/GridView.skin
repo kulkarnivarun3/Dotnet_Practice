@@ -1,0 +1,37 @@
+<%-- Professional Skin --%>
+<asp:GridView
+    SkinID="Professional"
+    CellPadding="4" 
+    ForeColor="#333333" 
+    GridLines="None" 
+    Runat="server">
+    <RowStyle 
+        BackColor="#F7F6F3" 
+        ForeColor="#333333" />
+    <HeaderStyle 
+        BackColor="#5D7B9D" 
+        Font-Bold="True" 
+        ForeColor="White" />
+    <AlternatingRowStyle 
+        BackColor="White" 
+        ForeColor="#284775" />
+</asp:GridView>
+
+
+<%-- Colorful --%>    
+<asp:GridView
+    SkinID="Colorful"
+    CellPadding="4" 
+    ForeColor="#333333" 
+    GridLines="None" 
+    Runat="server">
+    <RowStyle 
+        BackColor="#FFFBD6" 
+        ForeColor="#333333" />
+    <HeaderStyle 
+        BackColor="#990000" 
+        Font-Bold="True" 
+        ForeColor="White" />
+    <AlternatingRowStyle 
+        BackColor="White" />
+</asp:GridView>

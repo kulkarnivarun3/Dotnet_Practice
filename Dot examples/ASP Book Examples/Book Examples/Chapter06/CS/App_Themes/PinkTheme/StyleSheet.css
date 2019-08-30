@@ -1,0 +1,33 @@
+html
+{
+    background-color:Pink;
+    font:14px Verdana;
+}
+
+a
+{
+    text-decoration:none;
+}
+
+h1
+{
+    color:red;
+    border-bottom:solid 1px red;
+}
+
+.content
+{
+    background-color:White;
+    padding:10px;
+    border:Dashed 3px red;
+}
+
+ul
+{
+    list-style-type:circle;
+}
+
+li
+{
+    margin-bottom:10px;
+}

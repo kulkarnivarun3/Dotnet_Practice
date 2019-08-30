@@ -1,0 +1,6 @@
+G:\ADO.net Example\oledb access connectivity\oledb\bin\x86\Debug\oledb.exe.config
+G:\ADO.net Example\oledb access connectivity\oledb\bin\x86\Debug\oledb.exe
+G:\ADO.net Example\oledb access connectivity\oledb\bin\x86\Debug\oledb.pdb
+G:\ADO.net Example\oledb access connectivity\oledb\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\oledb access connectivity\oledb\obj\x86\Debug\oledb.exe
+G:\ADO.net Example\oledb access connectivity\oledb\obj\x86\Debug\oledb.pdb

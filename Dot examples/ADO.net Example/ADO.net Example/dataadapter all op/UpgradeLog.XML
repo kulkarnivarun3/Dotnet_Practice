@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="dataadapter all op">
+</Property><Property Name="Solution File" Value="G:\ADO.net Example\dataadapter all op\dataadapter all op.sln">
+</Property><Property Name="User Options File" Value="G:\ADO.net Example\dataadapter all op\dataadapter all op.suo">
+</Property><Property Name="Date" Value="Friday, July 14, 2017">
+</Property><Property Name="Time" Value="13:15 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="dataadapter all op.sln" Description="File successfully backed up as G:\ADO.net Example\dataadapter all op\Backup\dataadapter all op.sln">
+</Event><Event ErrorLevel="0" Project="" Source="dataadapter all op.suo" Description="File successfully backed up as G:\ADO.net Example\dataadapter all op\Backup\dataadapter all op.suo">
+</Event><Event ErrorLevel="0" Project="dataadapter all op" Source="dataadapter all op\dataadapter all op.csproj" Description="Project file successfully backed up as G:\ADO.net Example\dataadapter all op\Backup\dataadapter all op\dataadapter all op.csproj">
+</Event><Event ErrorLevel="0" Project="dataadapter all op" Source="dataadapter all op\Program.cs" Description="File successfully backed up as G:\ADO.net Example\dataadapter all op\Backup\dataadapter all op\Program.cs">
+</Event><Event ErrorLevel="0" Project="dataadapter all op" Source="dataadapter all op\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\ADO.net Example\dataadapter all op\Backup\dataadapter all op\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="dataadapter all op" Source="dataadapter all op\dataadapter all op.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dataadapter all op" Source="dataadapter all op\dataadapter all op.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="dataadapter all op.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="dataadapter all op.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dataadapter all op" Source="dataadapter all op\dataadapter all op.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

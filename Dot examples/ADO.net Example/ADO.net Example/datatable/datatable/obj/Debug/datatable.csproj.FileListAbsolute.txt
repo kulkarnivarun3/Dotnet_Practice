@@ -1,0 +1,14 @@
+C:\Users\amg\Desktop\datatable\datatable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\datatable\datatable\bin\Debug\datatable.exe
+C:\Users\amg\Desktop\datatable\datatable\bin\Debug\datatable.pdb
+C:\Users\amg\Desktop\datatable\datatable\obj\Debug\datatable.exe
+C:\Users\amg\Desktop\datatable\datatable\obj\Debug\datatable.pdb
+C:\Users\amg\Desktop\ADO.net Example\datatable\datatable\obj\Debug\datatable.exe
+C:\Users\amg\Desktop\ADO.net Example\datatable\datatable\obj\Debug\datatable.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\datatable\datatable\obj\Debug\datatable.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\datatable\datatable\obj\Debug\datatable.pdb
+G:\ADO.net Example\datatable\datatable\obj\Debug\datatable.exe
+G:\ADO.net Example\datatable\datatable\obj\Debug\datatable.pdb
+G:\ADO.net Example\datatable\datatable\bin\Debug\datatable.exe
+G:\ADO.net Example\datatable\datatable\bin\Debug\datatable.pdb
+G:\ADO.net Example\datatable\datatable\obj\Debug\ResolveAssemblyReference.cache

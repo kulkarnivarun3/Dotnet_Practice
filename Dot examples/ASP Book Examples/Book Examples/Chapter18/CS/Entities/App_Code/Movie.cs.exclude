@@ -1,0 +1,21 @@
+﻿using System;
+using System.Data.Linq.Mapping;
+
+[Table]
+public class Movie
+{
+    [Column(IsPrimaryKey = true, IsDbGenerated = true)]
+    public int Id { get; set; }
+
+    [Column]
+    public string Title { get; set; }
+
+    [Column]
+    public string Director { get; set; }
+
+    [Column]
+    public DateTime DateReleased { get; set; }
+
+    [Column]
+    public decimal BoxOfficeTotals { get; set; }
+}

@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<script runat="server">
+
+    protected void Page_PreRender(object sender, EventArgs e)
+    {
+        lblHeader.Text = System.Web.Configuration.WebConfigurationManager.AppSettings["HeaderText"];
+    }
+
+    protected void sm1_AsyncPostBackError(object sender, AsyncPostBackErrorEventArgs e)
+    {
+        sm1.AsyncPostBackErrorMessage = e.Exception.GetBaseException().Message;
+    }
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="~/feeds/rss20.ashx" />
+    <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="~/feeds/atom10.ashx"  />
+</head>
+<body>
+    <form id="form1" runat="server">
+  
+        <asp:ScriptManager ID="sm1" EnablePageMethods="true" runat="server" OnAsyncPostBackError="sm1_AsyncPostBackError" />
+        
+        <div id="loginStatus">
+            <asp:LoginStatus id="LoginStatus1" Runat="server" />
+        </div>        
+        
+        <div class="roundedCorner">
+           <div class="roundedCornerTop"><div></div></div>
+        
+                <asp:Panel ID="pnlWrapper" CssClass="wrapper" runat="server">
+                
+                    <div id="header">
+                        <asp:Label ID="lblHeader" runat="server" />
+                    </div>
+                    
+                    <table class="menu">
+                        <tr>
+                            <td>
+                                <asp:HyperLink ID="lnkHome" Runat="server" NavigateUrl="~/Default.aspx" Text="Home" />
+                            </td>
+                            <td>
+                                <asp:Menu ID="Menu1" Runat="server" Orientation="Horizontal" DataSourceID="srcSiteMap" />
+                                <asp:SiteMapDataSource ID="srcSiteMap" Runat="server" ShowStartingNode="false" />
+                            </td>
+                        </tr>
+                    </table>   
+                    
+                    <div id="content">
+                        <asp:ContentPlaceHolder id="cphMain" runat="server"></asp:ContentPlaceHolder>
+                        <div class="clearBoth"></div>
+                    </div>
+                    
+                    <div id="footer">
+                        &copy; Copyright <%=DateTime.Now.Year %> by the Company
+                    </div>
+                
+                </asp:Panel>
+        
+           <div class="roundedCornerBottom"><div></div></div>
+        </div>
+        
+        <%--<ajaxToolkit:RoundedCornersExtender ID="rce" runat="server" TargetControlID="pnlWrapper" Radius="5" Corners="All" />--%>
+    </form>
+</body>
+</html>

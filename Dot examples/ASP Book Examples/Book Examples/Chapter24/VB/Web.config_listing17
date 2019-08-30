@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <sessionState 
+      mode="SQLServer"
+      sqlConnectionString="Data Source=YourServer;Integrated Security=True"
+      sqlCommandTimeout="30" />
+
+    <machineKey 
+      decryption="AES"
+      validation="SHA1"
+      decryptionKey="306C1FA852AB3B0115150DD8BA30821CDFD125538A0C606DACA53DBB3C3E0AD2" 
+      validationKey="61A8E04A146AFFAB81B6AD19654F99EA7370807F18F5002725DAB98B8EFD19C711337E26948E26D1D174B159973EA0BE8CC9CAA6AAF513BF84E44B2247792265" />
+
+  </system.web>
+</configuration>

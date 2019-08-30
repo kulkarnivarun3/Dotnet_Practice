@@ -1,0 +1,37 @@
+html 
+{
+    background-color:gray;
+    font:14px Georgia,Serif;
+}
+
+.content
+{
+    margin:auto;
+    width:600px;
+    border:solid 1px black;
+    background-color:White;
+    padding:10px;
+}
+
+h1
+{
+    color:Gray;
+    font-size:18px;
+    border-bottom:solid 1px orange;
+}
+
+label
+{
+    font-weight:bold;
+}
+
+input 
+{
+    background-color:Yellow;
+    border:double 3px orange;
+}
+
+.button
+{
+    background-color:#eeeeee;
+}

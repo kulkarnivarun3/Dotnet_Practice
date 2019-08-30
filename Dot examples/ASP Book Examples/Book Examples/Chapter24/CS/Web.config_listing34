@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <profile automaticSaveEnabled="false">
+      <properties>
+        <add name="ShoppingCart" type="AspNetUnleashed.ShoppingCart"/>
+      </properties>
+    </profile>
+
+  </system.web>
+</configuration>

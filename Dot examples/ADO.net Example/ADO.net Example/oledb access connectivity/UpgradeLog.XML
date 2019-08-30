@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="oledb">
+</Property><Property Name="Solution File" Value="G:\ADO.net Example\oledb access connectivity\oledb.sln">
+</Property><Property Name="User Options File" Value="G:\ADO.net Example\oledb access connectivity\oledb.suo">
+</Property><Property Name="Date" Value="Wednesday, July 12, 2017">
+</Property><Property Name="Time" Value="12:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="oledb.sln" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb.sln">
+</Event><Event ErrorLevel="0" Project="" Source="oledb.suo" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb.suo">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\oledb.csproj" Description="Project file successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\oledb.csproj">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\Program.cs" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\Program.cs">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\RegisterDataSet.Designer.cs" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\RegisterDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\app.config" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\app.config">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\Properties\Settings.settings" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\RegisterDataSet.xsc" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\RegisterDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\RegisterDataSet.xsd" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\RegisterDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\RegisterDataSet.xss" Description="File successfully backed up as G:\ADO.net Example\oledb access connectivity\Backup\oledb\RegisterDataSet.xss">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\oledb.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="oledb" Source="oledb\oledb.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="oledb.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="oledb.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="oledb" Source="oledb\oledb.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

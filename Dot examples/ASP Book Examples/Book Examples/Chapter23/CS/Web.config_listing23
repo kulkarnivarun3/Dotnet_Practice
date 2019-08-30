@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configuration>
+  <connectionStrings>
+    <add name="MyConnection" connectionString="Data Source=MyServer;Integrated Security=True;Initial Catalog=MyDatabase"/>
+  </connectionStrings>
+
+  <system.web>
+    <authentication mode="Forms" />
+
+    <membership defaultProvider="MyMembershipProvider" >
+      <providers>
+        <add 
+          name="MyMembershipProvider"
+          type="System.Web.Security.SqlMembershipProvider"
+          connectionStringName="MyConnection" />
+      </providers>
+    </membership>
+  </system.web>
+</configuration>

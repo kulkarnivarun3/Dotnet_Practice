@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <authentication mode="Forms" />
+
+    <anonymousIdentification enabled="true" />
+
+    <profile>
+      <properties>
+        <add
+          name="numberOfVisits"
+          type="Int32"
+          defaultValue="0"
+          allowAnonymous="true" />
+      </properties>
+    </profile>
+
+  </system.web>
+</configuration>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <sessionState 
+      cookieless="AutoDetect"
+      regenerateExpiredSessionId="true" />
+
+  </system.web>
+</configuration>

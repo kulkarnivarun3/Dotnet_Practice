@@ -1,0 +1,17 @@
+C:\Users\amg\Desktop\relations3\relations3\bin\Debug\relations3.exe
+C:\Users\amg\Desktop\relations3\relations3\bin\Debug\relations3.pdb
+C:\Users\amg\Desktop\relations3\relations3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\relations3\relations3\obj\Debug\relations3.exe
+C:\Users\amg\Desktop\relations3\relations3\obj\Debug\relations3.pdb
+G:\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\relations3.exe
+G:\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\relations3.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\relations3.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\relations3.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\bin\Debug\relations3.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\bin\Debug\relations3.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\relations3.exe
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\relations3.pdb
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\bin\Debug\relations3.exe
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\bin\Debug\relations3.pdb
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3\obj\Debug\ResolveAssemblyReference.cache

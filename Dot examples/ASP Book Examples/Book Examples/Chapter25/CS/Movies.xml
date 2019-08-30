@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+  <movie title="Star Wars" />
+  <movie title="King Kong" />
+  <movie title="The Fly" />
+</movies>

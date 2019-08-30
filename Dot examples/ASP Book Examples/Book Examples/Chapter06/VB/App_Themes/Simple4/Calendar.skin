@@ -1,0 +1,33 @@
+<asp:Calendar
+    BackColor="White" 
+    BorderColor="White" 
+    BorderWidth="1px" 
+    Font-Names="Verdana" 
+    Font-Size="9pt" 
+    ForeColor="Black" 
+    NextPrevFormat="FullMonth" 
+    Width="400px"
+    Runat="Server">
+    <SelectedDayStyle 
+        BackColor="#333399" 
+        ForeColor="White" />
+    <OtherMonthDayStyle 
+        ForeColor="#999999" />
+    <TodayDayStyle 
+        BackColor="#CCCCCC" />
+    <NextPrevStyle 
+        Font-Bold="True" 
+        Font-Size="8pt" 
+        ForeColor="#333333" 
+        VerticalAlign="Bottom" />
+    <DayHeaderStyle 
+        Font-Bold="True" 
+        Font-Size="8pt" />
+    <TitleStyle 
+        BackColor="White" 
+        BorderColor="Black" 
+        BorderWidth="4px" 
+        Font-Bold="True"
+        Font-Size="12pt" 
+        ForeColor="#333399" />
+</asp:Calendar>    

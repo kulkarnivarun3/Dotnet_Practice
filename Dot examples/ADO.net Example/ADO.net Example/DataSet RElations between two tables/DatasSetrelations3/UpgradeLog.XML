@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="relations3">
+</Property><Property Name="Solution File" Value="G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3.sln">
+</Property><Property Name="User Options File" Value="G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\relations3.suo">
+</Property><Property Name="Date" Value="Friday, July 14, 2017">
+</Property><Property Name="Time" Value="12:59 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="relations3.sln" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\Backup\relations3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="relations3.suo" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\Backup\relations3.suo">
+</Event><Event ErrorLevel="0" Project="relations3" Source="relations3\relations3.csproj" Description="Project file successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\Backup\relations3\relations3.csproj">
+</Event><Event ErrorLevel="0" Project="relations3" Source="relations3\Program.cs" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\Backup\relations3\Program.cs">
+</Event><Event ErrorLevel="0" Project="relations3" Source="relations3\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelations3\Backup\relations3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="relations3" Source="relations3\relations3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="relations3" Source="relations3\relations3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="relations3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="relations3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="relations3" Source="relations3\relations3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

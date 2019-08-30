@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<configuration>
+  <connectionStrings>
+    <add 
+      name="conProfile"
+      connectionString="Data Source=.\SQLExpress;Integrated Security=true;AttachDBFileName=|DataDirectory|ProfilesDB.mdf;User Instance=true" />
+  </connectionStrings>
+  <system.web>
+
+    <profile defaultProvider="MyProfileProvider">
+      <properties>
+        <add name="FirstName" />
+        <add name="LastName" />
+        <add name="NumberOfVisits" type="Int32" />
+      </properties>
+      <providers>
+        <add 
+          name="MyProfileProvider"
+          type="AspNetUnleashed.BetterProfileProvider" 
+          connectionStringName="conProfile"
+          profileTableName="ProfileData" />
+      </providers>
+    </profile>
+
+  </system.web>
+</configuration>

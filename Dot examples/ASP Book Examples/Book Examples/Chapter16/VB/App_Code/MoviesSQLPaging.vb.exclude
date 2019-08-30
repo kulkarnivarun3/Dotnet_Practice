@@ -1,0 +1,62 @@
+Imports System
+Imports System.Data
+Imports System.Data.SqlClient
+Imports System.Web.Configuration
+
+Public Class MoviesDSPaging
+
+    Private Shared ReadOnly _conString As String
+
+    Public Shared Function GetMovies(ByVal startRowIndex As Integer, ByVal maximumRows As Integer) As SqlDataReader
+        ' Initialize connection     
+        Dim con As SqlConnection = New SqlConnection(_conString)
+
+        ' Initialize command
+        Dim cmd As SqlCommand = New SqlCommand()
+        cmd.Connection = con
+        cmd.CommandText = "GetPagedMovies"
+        cmd.CommandType = CommandType.StoredProcedure
+
+        ' Add ADO.NET parameters
+        cmd.Parameters.AddWithValue("@StartRowIndex", startRowIndex)
+        cmd.Parameters.AddWithValue("@MaximumRows", maximumRows)
+
+        ' Execute command
+        con.Open()
+        Return cmd.ExecuteReader(CommandBehavior.CloseConnection)
+    End Function
+
+    Public Shared Function GetMovieCount() As Integer
+        Dim context As HttpContext = HttpContext.Current
+        If context.Cache("MovieCount") Is Nothing Then
+            context.Cache("MovieCount") = GetMovieCountFromDB()
+        End If
+        Return CType(context.Cache("MovieCount"), Integer)
+    End Function
+
+    Private Shared Function GetMovieCountFromDB() As Integer
+        Dim result As Integer = 0
+
+        ' Initialize connection     
+        Dim con As SqlConnection = New SqlConnection(_conString)
+
+        ' Initialize command
+        Dim cmd As SqlCommand = New SqlCommand()
+        cmd.Connection = con
+        cmd.CommandText = "SELECT Count(*) FROM Movies"
+
+        ' Execute command
+        Using con
+            con.Open()
+            result = CType(cmd.ExecuteScalar(), Integer)
+        End Using
+        Return result
+    End Function
+
+
+
+    Shared Sub New()
+        _conString = WebConfigurationManager.ConnectionStrings("Movies").ConnectionString
+    End Sub
+
+End Class

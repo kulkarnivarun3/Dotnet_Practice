@@ -1,0 +1,16 @@
+<configuration>
+  <configSections>
+    <sectionGroup name="system.web">
+      <section 
+          name="design" 
+          type="AspNetUnleashed.DesignSection" 
+          allowLocation="true" 
+          allowDefinition="Everywhere"/>
+    </sectionGroup>
+  </configSections>
+  <system.web>
+    <design 
+      backcolor="red" 
+      styleSheetUrl="~/styles/style.css"/>
+  </system.web>
+</configuration>

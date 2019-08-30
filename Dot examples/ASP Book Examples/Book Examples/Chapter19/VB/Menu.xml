@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <appetizer>
+    <soup />
+    <cheese />
+  </appetizer>
+  <entree>
+    <duck />
+    <chicken />
+  </entree>
+  <dessert>
+    <cake />
+    <pie />
+  </dessert>
+</menu>

@@ -1,0 +1,22 @@
+<%@ Master Language="C#" MasterPageFile="~/Site.master" %>
+
+<asp:Content
+    id="Content1"
+    ContentPlaceHolderID="ContentPlaceHolder1"
+    Runat="server">
+    <div class="column">
+        <asp:ContentPlaceHolder
+            id="ContentPlaceHolder1"
+            Runat="server" />
+    </div>
+    <div class="column">
+        <asp:ContentPlaceHolder
+            id="ContentPlaceHolder2"
+            Runat="server" />
+    </div>
+    <div class="rightColumn">
+        <asp:ContentPlaceHolder
+            id="ContentPlaceHolder3"
+            Runat="server" />
+    </div>
+</asp:Content>    

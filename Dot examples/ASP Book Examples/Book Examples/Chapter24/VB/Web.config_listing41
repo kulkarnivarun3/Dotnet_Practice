@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<configuration>
+  <connectionStrings>
+    <add 
+      name="conProfile"
+      connectionString="Data Source=MyServer;Integrated Security=true;database=MyDatabase"/>
+
+  </connectionStrings>
+  <system.web>
+
+    <profile defaultProvider="MyProfileProvider">
+      <properties>
+        <add name="firstName" />
+        <add name="lastName" />
+      </properties>
+      <providers>
+        <add 
+          name="MyProfileProvider"
+          type="System.Web.Profile.SqlProfileProvider" 
+          connectionStringName="conProfile"/>
+      </providers>
+    </profile>
+
+  </system.web>
+</configuration>

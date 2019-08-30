@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <profile>
+      <properties>
+        <add name="firstName" />
+        <add name="lastName" />
+        <add name="numberOfVisits" type="Int32" defaultValue="0" />
+      </properties>
+    </profile>
+
+  </system.web>
+</configuration>

@@ -1,0 +1,14 @@
+C:\Users\amg\Desktop\dataadapter all op\dataadapter all op\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\dataadapter all op\dataadapter all op\bin\Debug\dataadapter all op.exe
+C:\Users\amg\Desktop\dataadapter all op\dataadapter all op\bin\Debug\dataadapter all op.pdb
+C:\Users\amg\Desktop\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.exe
+C:\Users\amg\Desktop\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.pdb
+C:\Users\amg\Desktop\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.exe
+C:\Users\amg\Desktop\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.pdb
+C:\Users\amg\Desktop\ADO.net Example\dataadapter all op\dataadapter all op\bin\Debug\dataadapter all op.exe
+C:\Users\amg\Desktop\ADO.net Example\dataadapter all op\dataadapter all op\bin\Debug\dataadapter all op.pdb
+C:\Users\amg\Desktop\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.exe
+G:\ADO.net Example\dataadapter all op\dataadapter all op\obj\Debug\dataadapter all op.pdb

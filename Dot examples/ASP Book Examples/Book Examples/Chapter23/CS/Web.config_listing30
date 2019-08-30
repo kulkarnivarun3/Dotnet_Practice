@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <system.web>
+    <authentication mode="Windows" />
+
+    <roleManager enabled="true" defaultProvider="MyRoleProvider">
+      <providers>
+        <add
+          name="MyRoleProvider"
+          type="System.Web.Security.WindowsTokenRoleProvider" />
+      </providers>
+    </roleManager>
+
+  </system.web>
+</configuration>

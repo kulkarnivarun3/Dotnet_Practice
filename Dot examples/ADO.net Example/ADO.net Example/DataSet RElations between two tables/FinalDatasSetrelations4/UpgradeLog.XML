@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="relations4">
+</Property><Property Name="Solution File" Value="G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4.sln">
+</Property><Property Name="User Options File" Value="G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\relations4.suo">
+</Property><Property Name="Date" Value="Friday, July 14, 2017">
+</Property><Property Name="Time" Value="13:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="relations4.sln" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\Backup\relations4.sln">
+</Event><Event ErrorLevel="0" Project="" Source="relations4.suo" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\Backup\relations4.suo">
+</Event><Event ErrorLevel="0" Project="relations4" Source="relations4\relations4.csproj" Description="Project file successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\Backup\relations4\relations4.csproj">
+</Event><Event ErrorLevel="0" Project="relations4" Source="relations4\Program.cs" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\Backup\relations4\Program.cs">
+</Event><Event ErrorLevel="0" Project="relations4" Source="relations4\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\ADO.net Example\DataSet RElations between two tables\FinalDatasSetrelations4\Backup\relations4\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="relations4" Source="relations4\relations4.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="relations4" Source="relations4\relations4.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="relations4.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="relations4.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="relations4" Source="relations4\relations4.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

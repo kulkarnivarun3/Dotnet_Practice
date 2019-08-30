@@ -1,0 +1,5 @@
+G:\ADO.net Example\First ado example\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+G:\ADO.net Example\First ado example\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+G:\ADO.net Example\First ado example\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\First ado example\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\ADO.net Example\First ado example\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

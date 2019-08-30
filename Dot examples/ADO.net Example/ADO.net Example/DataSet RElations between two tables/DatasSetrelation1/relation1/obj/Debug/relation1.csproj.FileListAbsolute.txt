@@ -1,0 +1,17 @@
+C:\Users\amg\Desktop\relation1\relation1\bin\Debug\relation1.exe
+C:\Users\amg\Desktop\relation1\relation1\bin\Debug\relation1.pdb
+C:\Users\amg\Desktop\relation1\relation1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\relation1\relation1\obj\Debug\relation1.exe
+C:\Users\amg\Desktop\relation1\relation1\obj\Debug\relation1.pdb
+G:\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\relation1.exe
+G:\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\relation1.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\relation1.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\relation1.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\bin\Debug\relation1.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\bin\Debug\relation1.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\relation1.exe
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\relation1.pdb
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\bin\Debug\relation1.exe
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\bin\Debug\relation1.pdb
+G:\ADO.net Example\DataSet RElations between two tables\DatasSetrelation1\relation1\obj\Debug\ResolveAssemblyReference.cache

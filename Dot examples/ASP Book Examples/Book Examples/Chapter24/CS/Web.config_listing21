@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <profile>
+      <properties>
+        <group name="Preferences">
+          <add name="BackColor" defaultValue="lightblue"/>
+          <add name="Font" defaultValue="Arial"/>
+        </group>
+        <group name="ContactInfo">
+          <add name="Email" defaultValue="Your Email"/>
+          <add name="Phone" defaultValue="Your Phone"/>
+        </group>
+      </properties>
+    </profile>
+
+  </system.web>
+</configuration>

@@ -1,0 +1,48 @@
+<%@ Page Language="C#" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>Panel Grouping Text</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+    <asp:Panel
+        id="pnlContact"
+        GroupingText="Contact Information"
+        Runat="server">
+                
+    <asp:Label
+        id="lblFirstName"
+        Text="First Name:"
+        AssociatedControlID="txtFirstName"
+        Runat="server" />
+    <br />
+    <asp:TextBox
+        id="txtFirstName"
+        AutoCompleteType="FirstName"
+        Runat="server" />    
+    <br /><br />    
+    <asp:Label
+        id="lblLastname"
+        Text="Last Name:"
+        AssociatedControlID="txtLastName"
+        Runat="server" />
+    <br />
+    <asp:TextBox
+        id="txtLastName"
+        AutoCompleteType="LastName"
+        Runat="server" />    
+    <br /><br />
+    <asp:Button
+        id="btnSubmit"
+        Text="Submit"
+        Runat="server" />
+            
+    </asp:Panel>
+    
+    </div>
+    </form>
+</body>
+</html>

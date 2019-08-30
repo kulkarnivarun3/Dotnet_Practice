@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <connectionStrings>
+    <add 
+      name="AZConnection" 
+      connectionString="msxml://~/App_Data/WebRoles.xml"/>
+  </connectionStrings>
+
+  <system.web>
+    <authentication mode="Windows" />
+
+    <roleManager enabled="true" defaultProvider="MyRoleProvider">
+      <providers>
+        <add
+          name="MyRoleProvider"
+          type="System.Web.Security.AuthorizationStoreRoleProvider"
+          connectionStringName="AZConnection"
+          applicationName="WebRoles"
+            />
+      </providers>
+    </roleManager>
+
+  </system.web>
+</configuration>

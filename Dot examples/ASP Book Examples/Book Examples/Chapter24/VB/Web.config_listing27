@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <anonymousIdentification enabled="true" />
+
+    <profile inherits="SiteProfile" />
+
+  </system.web>
+</configuration>

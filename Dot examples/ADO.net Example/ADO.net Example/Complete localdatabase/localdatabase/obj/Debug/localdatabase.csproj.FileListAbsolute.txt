@@ -1,0 +1,30 @@
+C:\Users\amg\Desktop\localdatabase\localdatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\localdatabase\localdatabase\bin\Debug\localdatabase.exe
+C:\Users\amg\Desktop\localdatabase\localdatabase\bin\Debug\localdatabase.pdb
+C:\Users\amg\Desktop\localdatabase\localdatabase\obj\Debug\localdatabase.exe
+C:\Users\amg\Desktop\localdatabase\localdatabase\obj\Debug\localdatabase.pdb
+C:\Users\amg\Desktop\localdatabase\localdatabase\bin\Debug\localdatabase.exe.config
+G:\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe.config
+G:\Complete localdatabase\localdatabase\obj\Debug\localdatabase.exe
+G:\Complete localdatabase\localdatabase\obj\Debug\localdatabase.pdb
+G:\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe
+G:\Complete localdatabase\localdatabase\bin\Debug\localdatabase.pdb
+G:\Complete localdatabase\localdatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe.config
+C:\Users\amg\Desktop\Complete localdatabase\localdatabase\obj\Debug\localdatabase.exe
+C:\Users\amg\Desktop\Complete localdatabase\localdatabase\obj\Debug\localdatabase.pdb
+C:\Users\amg\Desktop\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe
+C:\Users\amg\Desktop\Complete localdatabase\localdatabase\bin\Debug\localdatabase.pdb
+C:\Users\amg\Desktop\Complete localdatabase\localdatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe.config
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\localdatabase.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\localdatabase.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\Complete localdatabase\localdatabase\bin\Debug\localdatabase.pdb
+E:\amg\Material\MCA 5 DOT NET\example by atul gosai\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\ADO.net Example\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe.config
+C:\Users\amg\Desktop\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\localdatabase.exe
+C:\Users\amg\Desktop\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\localdatabase.pdb
+G:\ADO.net Example\Complete localdatabase\localdatabase\bin\Debug\localdatabase.exe.config
+G:\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\localdatabase.exe
+G:\ADO.net Example\Complete localdatabase\localdatabase\obj\Debug\localdatabase.pdb

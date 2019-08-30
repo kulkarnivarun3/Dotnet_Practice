@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="stored procedure">
+</Property><Property Name="Solution File" Value="G:\ADO.net Example\stored procedure\stored procedure.sln">
+</Property><Property Name="User Options File" Value="G:\ADO.net Example\stored procedure\stored procedure.suo">
+</Property><Property Name="Date" Value="Friday, July 07, 2017">
+</Property><Property Name="Time" Value="14:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="stored procedure.sln" Description="File successfully backed up as G:\ADO.net Example\stored procedure\Backup\stored procedure.sln">
+</Event><Event ErrorLevel="0" Project="" Source="stored procedure.suo" Description="File successfully backed up as G:\ADO.net Example\stored procedure\Backup\stored procedure.suo">
+</Event><Event ErrorLevel="0" Project="stored procedure" Source="stored procedure\stored procedure.csproj" Description="Project file successfully backed up as G:\ADO.net Example\stored procedure\Backup\stored procedure\stored procedure.csproj">
+</Event><Event ErrorLevel="0" Project="stored procedure" Source="stored procedure\Program.cs" Description="File successfully backed up as G:\ADO.net Example\stored procedure\Backup\stored procedure\Program.cs">
+</Event><Event ErrorLevel="0" Project="stored procedure" Source="stored procedure\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\ADO.net Example\stored procedure\Backup\stored procedure\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="stored procedure" Source="stored procedure\stored procedure.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="stored procedure" Source="stored procedure\stored procedure.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="stored procedure.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="stored procedure.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="stored procedure" Source="stored procedure\stored procedure.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

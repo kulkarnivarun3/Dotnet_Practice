@@ -1,0 +1,15 @@
+C:\Users\amg\Desktop\dataset\dataset\bin\Debug\dataset.exe
+C:\Users\amg\Desktop\dataset\dataset\bin\Debug\dataset.pdb
+C:\Users\amg\Desktop\dataset\dataset\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\dataset\dataset\obj\Debug\dataset.exe
+C:\Users\amg\Desktop\dataset\dataset\obj\Debug\dataset.pdb
+G:\ADO.net Example\dataset\dataset\obj\Debug\dataset.exe
+G:\ADO.net Example\dataset\dataset\obj\Debug\dataset.pdb
+G:\ADO.net Example\dataset\dataset\bin\Debug\dataset.exe
+G:\ADO.net Example\dataset\dataset\bin\Debug\dataset.pdb
+G:\ADO.net Example\dataset\dataset\obj\Debug\ResolveAssemblyReference.cache
+D:\asp_\ADO.net Example\ADO.net Example\dataset\dataset\bin\Debug\dataset.exe.config
+D:\asp_\ADO.net Example\ADO.net Example\dataset\dataset\obj\Debug\dataset.exe
+D:\asp_\ADO.net Example\ADO.net Example\dataset\dataset\obj\Debug\dataset.pdb
+D:\asp_\ADO.net Example\ADO.net Example\dataset\dataset\bin\Debug\dataset.exe
+D:\asp_\ADO.net Example\ADO.net Example\dataset\dataset\bin\Debug\dataset.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MyDatabase">
+  <DataContextMoniker Name="/MyDatabaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c5e0290f-dc54-4b55-b184-74587f7ce02d" absoluteBounds="3.5, 1, 2, 2.5106225585937505">
+      <DataClassMoniker Name="/MyDatabaseDataContext/Movie" />
+      <nestedChildShapes>
+        <elementListCompartment Id="050e1a7b-e99c-43ea-a030-887130550085" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.95062255859375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c80a64fa-71da-4c09-93e6-3805b3efa4aa" absoluteBounds="0.75, 1.5, 2, 1.3736596679687498">
+      <DataClassMoniker Name="/MyDatabaseDataContext/MovieCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4b3dd8a-2cc0-429b-872e-6cc8cb4be091" absoluteBounds="0.765, 1.96, 1.9700000000000002, 0.81365966796875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.18682983398437); (3.5 : 2.18682983398437)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MyDatabaseDataContext/MovieCategory/MovieCategory_Movie" />
+      <nodes>
+        <classShapeMoniker Id="c80a64fa-71da-4c09-93e6-3805b3efa4aa" />
+        <classShapeMoniker Id="c5e0290f-dc54-4b55-b184-74587f7ce02d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,15 @@
+C:\Users\amg\Desktop\mutiple tables from dataset\mutiple tables from dataset\bin\Debug\mutiple tables from dataset.exe
+C:\Users\amg\Desktop\mutiple tables from dataset\mutiple tables from dataset\bin\Debug\mutiple tables from dataset.pdb
+C:\Users\amg\Desktop\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\mutiple tables from dataset.exe
+C:\Users\amg\Desktop\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\mutiple tables from dataset.pdb
+C:\Users\amg\Desktop\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\mutiple tables from dataset.exe
+C:\Users\amg\Desktop\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\mutiple tables from dataset.pdb
+C:\Users\amg\Desktop\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\bin\Debug\mutiple tables from dataset.exe
+C:\Users\amg\Desktop\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\bin\Debug\mutiple tables from dataset.pdb
+C:\Users\amg\Desktop\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\ResolveAssemblyReference.cache
+G:\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\mutiple tables from dataset.exe
+G:\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\mutiple tables from dataset.pdb
+G:\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\bin\Debug\mutiple tables from dataset.exe
+G:\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\bin\Debug\mutiple tables from dataset.pdb
+G:\ADO.net Example\mutiple tables from dataset\mutiple tables from dataset\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+using System;
+using System.Web;
+using System.Web.Profile;
+
+/// <summary>
+/// Retrieves first name from Profile
+/// </summary>
+public class ProfileComponent
+{
+    public static string GetFirstNameFromProfile()
+    {
+        ProfileCommon profile = (ProfileCommon)HttpContext.Current.Profile;
+        return profile.firstName;
+    }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+
+    <authentication mode="Forms">
+      <forms>
+        <credentials passwordFormat="Clear">
+          <user name="Bill" password="secret" />
+          <user name="Jane" password="secret" />
+          <user name="Fred" password="secret" />
+        </credentials>
+      </forms>
+    </authentication>
+
+  </system.web>
+</configuration>

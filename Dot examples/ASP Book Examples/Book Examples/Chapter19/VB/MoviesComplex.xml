@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+  <category id="category1" text="Action">
+    <movie id="movie1" text="Star Wars" />
+    <movie id="movie2" text="Independence Day" />
+  </category>
+  <category id="category2" text="Horror">
+    <movie id="movie3" text="Jaws" />
+    <movie id="movie4" text="Nightmare Before Christmas" />
+  </category>
+</movies>

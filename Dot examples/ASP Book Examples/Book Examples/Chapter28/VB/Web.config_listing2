@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration >
+
+  <location allowOverride="false">
+    <system.web>
+      <compilation debug="false" />
+    </system.web>
+  </location>
+
+</configuration>

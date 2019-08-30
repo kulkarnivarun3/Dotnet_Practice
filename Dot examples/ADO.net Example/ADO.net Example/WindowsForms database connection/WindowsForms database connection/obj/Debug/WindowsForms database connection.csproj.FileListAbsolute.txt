@@ -1,0 +1,24 @@
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\bin\Debug\WindowsForms database connection.exe
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\bin\Debug\WindowsForms database connection.pdb
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms_database_connection.Form1.resources
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms_database_connection.Properties.Resources.resources
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.csproj.GenerateResource.Cache
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.exe
+C:\Users\amg\Desktop\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.pdb
+G:\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.exe
+G:\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.pdb
+G:\WindowsForms database connection\WindowsForms database connection\bin\Debug\WindowsForms database connection.exe
+G:\WindowsForms database connection\WindowsForms database connection\bin\Debug\WindowsForms database connection.pdb
+G:\WindowsForms database connection\WindowsForms database connection\obj\Debug\ResolveAssemblyReference.cache
+G:\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms_database_connection.Form1.resources
+G:\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms_database_connection.Properties.Resources.resources
+G:\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.csproj.GenerateResource.Cache
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.exe
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.pdb
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\bin\Debug\WindowsForms database connection.exe
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\bin\Debug\WindowsForms database connection.pdb
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms_database_connection.Form1.resources
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms_database_connection.Properties.Resources.resources
+C:\Users\amg\Desktop\ADO.net Example\WindowsForms database connection\WindowsForms database connection\obj\Debug\WindowsForms database connection.csproj.GenerateResource.Cache

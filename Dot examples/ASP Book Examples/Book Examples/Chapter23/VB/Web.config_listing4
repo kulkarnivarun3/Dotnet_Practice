@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+    <authentication mode="Forms">
+      <forms slidingExpiration="false" timeout="1" />
+    </authentication>
+  </system.web>
+</configuration>
